@@ -13,7 +13,3 @@ Sleep apnea (SA) is a ubiquitous sleep-related respiratory disease. It can occur
 If our work is helpful to you, please cite:
 
 Tao Wang, Changhua Lu, and Guohao Shen, “Detection of Sleep Apnea from Single-Lead ECG Signal Using a Time Window Artificial Neural Network,” BioMed Research International, vol. 2019, Article ID 9768072, 9 pages, 2019. [https://doi.org/10.1155/2019/9768072](https://doi.org/10.1155/2019/9768072).
-
-## Email:
-
-If you have any questions, please email to: wtustc@mail.ustc.edu.cn
